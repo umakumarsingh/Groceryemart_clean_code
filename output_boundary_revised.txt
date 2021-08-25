@@ -1,5 +1,1 @@
-Testfor_ValidEmail=True
-Testfor_ValidateProductId=True
-Testfor_ValidateUserId=True
-Testfor_ValidateCategoryId=True
-Testfor_ValidateMobileNumber=True
+
