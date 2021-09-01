@@ -12703,11 +12703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Groceryemart_clean_code\\Groceryemart\\GroceryEmart.csproj",
+      "projectUniqueName": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart\\GroceryEmart.csproj",
       "projectName": "GroceryEmart",
-      "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart\\GroceryEmart.csproj",
+      "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart\\GroceryEmart.csproj",
       "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Groceryemart_clean_code\\Groceryemart\\obj\\",
+      "outputPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12727,14 +12727,14 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "D:\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj": {
-              "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj"
+            "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj": {
+              "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj"
             },
-            "D:\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj": {
-              "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj"
+            "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj": {
+              "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj"
             },
-            "D:\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj": {
-              "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj"
+            "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj": {
+              "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj"
             }
           }
         }

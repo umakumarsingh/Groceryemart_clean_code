@@ -98,7 +98,7 @@ namespace GroceryEmart.Controllers
             throw new NotImplementedException();
         }
         /// <summary>
-        /// Remove Category form sql categeory table by Id, do process under try catch block
+        /// Remove Category form sql categeory table by Id
         /// </summary>
         /// <param name="Id"></param>
         /// <returns></returns>
@@ -110,7 +110,7 @@ namespace GroceryEmart.Controllers
             throw new NotImplementedException();
         }
         /// <summary>
-        /// Remove Product from sql databse from product table, do process under try catch block
+        /// Remove Product from sql databse from product table
         /// </summary>
         /// <param name="ProductId"></param>
         /// <returns></returns>

@@ -3789,11 +3789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj",
+      "projectUniqueName": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj",
       "projectName": "GroceryEmart.BusinessLayer",
-      "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj",
+      "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\GroceryEmart.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\obj\\",
+      "outputPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3813,11 +3813,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "D:\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj": {
-              "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj"
+            "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj": {
+              "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj"
             },
-            "D:\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj": {
-              "projectPath": "D:\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj"
+            "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj": {
+              "projectPath": "D:\\IIHT DATA\\Groceryemart_clean_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj"
             }
           }
         }
